@@ -1,0 +1,1 @@
+# Movimento de Onda Eletromagnética por meio de um circuito LC e uma antena.

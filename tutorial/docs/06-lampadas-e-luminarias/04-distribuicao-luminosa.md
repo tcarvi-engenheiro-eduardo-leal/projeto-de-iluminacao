@@ -1,0 +1,13 @@
+# Distribuição Luminosa
+- Tipos de fachos:
+    - Narrow Spot / Super Spot
+    - Medium Spot
+    - Flood
+    - Wide Flood
+    - Extra Wide Flood
+    - Oval Flood
+    - Elliptical
+    - Wall Washer
+    - Super Flood
+    - Wall Washer
+    - Ceiling Washer

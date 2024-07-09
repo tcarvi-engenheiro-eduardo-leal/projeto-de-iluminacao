@@ -1,0 +1,32 @@
+# Sistemas Hibridos de LEDs
+- Criação de diferentes espectros de luz com uso de LED RYGB e com LED Azul que possui fósforo na sua superfície.
+- Tecnologia SKEYE
+    - Modelo: SKE 4000
+    - Placa de circuito impresso de 560mm x 24 mm
+    - Com LEDs híbridos
+    - Com alimentação de 24V DC
+    - Fluxo Luminoso: 3390lm/m
+    - IRC(Ra) = 80
+    - IRC(R9) = 50
+    - TM-30(Rf) = 80
+    - TM-30(Rg) = 96
+    - CIE 1931 X = 0,3967
+    - CIE 1931 Y = 0,3858
+    - Duv: -0,0002
+    - L70 > 60K horas
+    - Eficácia > 100lm/W
+    - IRC > 90
+    - R9 > 50
+    - Tolerância do fluxo luminoso para < 5%
+        - CCT = 3650K 
+        - Fluxo luminoso = 1900 lm
+        - Potência = 19W
+        - IRC > 80
+        - SDCM < 3
+        - IP = 20
+        - Ângulo = 120º 
+        - Corrente Nominal = 793mA
+- Tecnologia SKARLET
+    - ee
+- Tecnologia Kandle
+    - 
