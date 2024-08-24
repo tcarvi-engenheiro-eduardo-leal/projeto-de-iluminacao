@@ -1,8 +1,24 @@
 # GESTALT
+- A Gestalt é uma **teoria psicológica** que explora **como os seres humanos organizam elementos visuais em grupos ou padrões, percebendo o todo como algo maior do que a soma das partes**.
+    
+## Aplicações na Arquitetura:
+- **Proximidade**:
+    - Elementos próximos tendem a ser percebidos como uma unidade.
+    - Na arquitetura, a disposição de elementos próximos pode criar um **sentido de coesão em um espaço**.
+- **Similaridade**: 
+    - Elementos com características semelhantes são vistos como **pertencentes a um mesmo grupo**. 
+    - Isso pode ser usado para criar uniformidade em fachadas ou interiores.
+- **Continuidade**:
+    - **Linhas ou formas contínuas são percebidas como conectadas**. 
+    - Na arquitetura, isso pode ser utilizado para guiar o olhar através de um espaço de maneira fluida.
+- **Figura e Fundo**: 
+    - A distinção entre figura e fundo é crucial para a organização espacial, ajudando a destacar elementos arquitetônicos importantes e a criar hierarquias visuais.
+
+## Forças Externas e Internas
 - A imagem é percebida através da interação de dois tipos de forças:
-    - Forças externas:
+    - **Forças externas**:
         - estímulos luminosos que alcançam a retina
-    - Forças internas: (maior reflexão da GESTALT)
+    - **Forças internas**: (maior reflexão da GESTALT)
         - Organização dos estímulos dado pelas forças externas
         - Tendência de organizar e estruturar da melhor forma possível
 
