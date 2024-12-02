@@ -105,4 +105,8 @@ GESTALT
     - A imagem é percebida através 
 
 
+# Percepção
+- Relação Homem - Ambiente
+- Como criamos as nossas imagens
+- Como acessamos o mundo de forma consciente
 

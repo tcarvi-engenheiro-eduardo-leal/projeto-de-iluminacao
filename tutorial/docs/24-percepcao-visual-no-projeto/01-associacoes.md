@@ -24,3 +24,20 @@ sidebar_position: 1
 
 ## Fenomenologia
 -  
+-
+
+# Ferraments de movimento (modelagem da arquitetura com cor)
+- Cor com foco e desfoque (corações vermelhos)
+- Sobra ou claridade em formas 3D (biscoitos circulares)
+- Contraste de cores (movimento devido mudança de foco e dificuldade de captação dos contrastes)
+- Contrase de tamanhos (gerando movimento)
+- Formas diferentes devido linha da visão. (ilusão de ótica):
+    - Moça-Velha,
+    - CasaDentro-CasaFora, 
+    - Veículos-2-Pistas
+    - Mudanca nas formas e volumes
+        - Piso xadrez
+- Saturação de cor e depois mudança brusca para branco. 
+    - De forma a manter a cor no que não está colorido.
+
+Neon

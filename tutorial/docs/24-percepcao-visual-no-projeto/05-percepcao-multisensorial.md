@@ -1,8 +1,8 @@
 # Percepção Multisensirial
-
 - Diferenciação entre Emoção, Sensação e Sentimentos.
 
-Teorias da Percepção: (integração entre psicologia, ciência e filosofia)
+## Teorias da Percepção:
+- Integração entre psicologia, ciência e filosofia
 - GESTALT
     - Enfatiza a organização perceptual e a forma como percebemos o mundo como um todo significativo.
 - Fenomenologia da Percepção
@@ -10,7 +10,7 @@ Teorias da Percepção: (integração entre psicologia, ciência e filosofia)
 - Neurociências
     - Contribui com métodos empíricos, dados objetivos e teorias explicativas sobre o funcionamento do cérebro.
 
-Abordagem Multidisciplinar
+## Abordagem Multidisciplinar
 - Psicologia experimental
 - Psicologia cognitiva
 - Fenomenologia
@@ -21,65 +21,67 @@ Abordagem Multidisciplinar
 - Compreensão de como nos tornamos conscientes do nosso ambiente físico e da relação entre o mundo exterior e nossa experiência consciente.
 - Conhecer o mundo e a nós mesmos.
 
-Percepção:
+## Percepção:
 - Relação Homem-Ambiente
 - Como criamos nossas imagens
 - Como acessamos o mundo de forma consciente
+- Estudo da Neurociência: Antônio Damásio
 
 Saber como o cérebro funciona tem alguma importância para o modo como vivemos nossa vida?
 - A meu ver, importa muito, ainda mais se, além de sabermos quem atualmente somos, nos interessarmos pelo que podemos vir a ser.
 
-- Emoções - Sentimentos - Sensações
-    - Sístema Límbico
-    - SNC - Encéfalo e medula espinhal
+## Emoções - Sentimentos - Sensações
+- Sístema Límbico
+- SNC - Encéfalo e medula espinhal
 
-- Emoção:
-    - É noite.
-    - Ando 1 quadra as 24:00.
-    - Está chovendo.
-    - Vejo uma pessoa com capuz.
-    - Há violência na cidade.
-    - A pessoa vem na minha direção.
-    - Meu coração começar a bater forte.
-    - A pessoa teve uma emoção de medo!
-    - A emoção é uma reação que ocorre no corpo.
-    - A emoção ocorre em uma parte específica do cérebro.
-    - O processamento ocorre no sistema límbico.
-    - A emoção é uma resposta complexa de movimento em relação a um estímulo que foi sentido. O centro da palavra emotion é motion.
+## Emoção:
+- É noite.
+- Ando 1 quadra as 24:00.
+- Está chovendo.
+- Vejo uma pessoa com capuz.
+- Há violência na cidade.
+- A pessoa vem na minha direção.
+- Meu coração começar a bater forte.
+- A pessoa teve uma emoção de medo!
+- A emoção é uma reação que ocorre no corpo.
+- A emoção ocorre em uma parte específica do cérebro.
+- O processamento ocorre no sistema límbico.
+- A emoção é uma resposta complexa de movimento em relação a um estímulo que foi sentido. 
+
+## O centro da palavra emotion é motion.
 - Sentimento:
     - Já o sentimento é uma relação de um fato ou imagem com uma lembrança de longa duração da pessoa.
     - O processamento da emoção ocorre em uma área específica do cérebro.
 - Sensação
-    - 
 
-- Cadeia Emocional: (ocorre diretamente no corpo)
-    - Evento Externo 
-    - Emoções (sentir individual)
-    - Ação (reação individual involuntária)
-    - Nos Afeta 
-    - Você não consegue saber o que o seu cérebro fez, que processos foram envolvidos no reconhecimento de uma emoção de perigo, por exemplo. Geralmente as emoções começam sem nossa consciência.
-    - Nos primeiros milésimos de segundo, a emoção se apodero de nós e comanda o que nós fazemos, dizemos e pensamos.
+## Cadeia Emocional: (ocorre diretamente no corpo)
+- Evento Externo 
+- Emoções (sentir individual)
+- Ação (reação individual involuntária)
+- Nos Afeta 
+- Você não consegue saber o que o seu cérebro fez, que processos foram envolvidos no reconhecimento de uma emoção de perigo, por exemplo. Geralmente as emoções começam sem nossa consciência.
+- Nos primeiros milésimos de segundo, a emoção se apodero de nós e comanda o que nós fazemos, dizemos e pensamos.
 
-- Comportamento emocional:
+## Comportamento emocional:
 - emoções nos preparam para lidar com eventos importantes sem precisarmos pensar no que fazer.
 - emoções são reações a questões que parecem muito importantes para nosso bem-estar-saudável
 - Emoções frequentemente começam tão rápido que não temos consciência dos processos mentais que as deflagram. (GATILHOS EMOCIONAIS DEVIDO EXPERIÊNCIA ANTERIOR)
 
-- Como construir emoções na arquitetura?
-    - Como manipular luzes e espaços para gerar emoção nas pessoas.
+# Como construir emoções na arquitetura?
+- Como manipular luzes e espaços para gerar emoção nas pessoas.
 
-- Emoções Liberam Hormônios
-    - Os hormônios são substâncias produzidas no corpo humano por glândulas e tecidos especializados e são liberados na corrente sanguínea. Eles são mensageiros químicos que permitem a comunicação entre diferentes áreas do corpo, percorrendo-o até chegarem a células específicas para a sua atuação.
-    - Os hormônios têm impacto em quase tudo que o nosso corpo faz.
-    - Os hormônios têm grande influência no comportamento.
+## Emoções Liberam Hormônios
+- Os hormônios são substâncias produzidas no corpo humano por glândulas e tecidos especializados e são liberados na corrente sanguínea. Eles são mensageiros químicos que permitem a comunicação entre diferentes áreas do corpo, percorrendo-o até chegarem a células específicas para a sua atuação.
+- Os hormônios têm impacto em quase tudo que o nosso corpo faz.
+- Os hormônios têm grande influência no comportamento.
 
-- Pesquisas da neurociência
+## Pesquisas da neurociência
 - Neste momento, a ciência está determinando os padrões de atividade cerebral que são a base de cada emoção.
 - Uma das novas áreas de pesquisa em evidência é a observação dos Mecanismos Cerebrais da Emoção.
 - Ainda não sabemos o suficiente a respeito do cérebro para responder muitas das perguntas sobre cadeia emocional.
 - Sabemos muito acerca do comportamento emocional, o bastante para dar respostas a algumas das perguntas mais fundamentais a respeito do papel das emoções em nossa vida cotidiana.
 
-Inteligência Emocional
+## Inteligência Emocional
 - Não se pode racionalizar emoções.
 - Não se controla o sentir de emoções.
 - Emoções são incontroláveis.
@@ -87,7 +89,7 @@ Inteligência Emocional
 - E pode-se buscar gerar emoções!
 - A Inteligência Emocional vem da racionalização depois de se ter uma emoção.
 
-Sensações
+## Sensações
 - A experiência da realidade.
 - Como o sistema biológico do cérebro dá origem a nossa experiência?
 - Sensação de molhar os pés no mar.
@@ -113,10 +115,10 @@ Sensações
 - Informação sensorial
     - É definida como a atividade neural originada da estimulação das células receptoras em partes específicas do corpo.
 
-- Livro:
-    - Princípios de Neurociências
-    - Eric R. Kandel
-    - Capítulo 5 sobre percepções
+## Livro:
+- Princípios de Neurociências
+- Eric R. Kandel
+- Capítulo 5 sobre percepções
 
 - A sensação é como nossos orgãos dos sentidos respondem a estímulos externos e como estas respostas são transmitidas ao cérebro.
 
@@ -143,3 +145,17 @@ Percepção Háptica
 - A percepção é a detecção de estruturas invariantes no fluxo de informação do estímulo, o oXXX é acendido quando o observador ativo se move através do ambiente.
     - Orgão sensitivo -- Sensação (o objeto é sentido e visto) -- Cérebro
     - Cognição -- Percepção (o objeto é percebido e conhecido) -- Cérebro
+
+## Interação entre o espaço físico e a experiência emocional dos usuários
+- 
+
+
+## hormónio da Felicidade
+- Dopamina
+- Oxitocina
+- Endorfina
+- Serotonina
+
+## Como construir projetos de edifícios alterando os hormônios das pessoas
+- Sombra / luz
+- 
